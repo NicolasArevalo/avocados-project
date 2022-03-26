@@ -5,8 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    out: 'docs',
-    metaUrlPath: 'snowpack',
-    baseUrl: 'https://nicolasarevalo.github.io/avoccados-project',
+    baseUrl: 'https://nicolasarevalo.github.io/avocados-project',
   },
 }
